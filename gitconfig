@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = msafuler@gmail.com
+	name = Marianna Safuler
